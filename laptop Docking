@@ -4,3 +4,24 @@ for such devices..
 the time has come wherer the mobiles and laptops can be combined to give the best of both worlds giving superior performance with extreme portability and ease of use,
 
 <h2> The Idea </h2>
+
+<h3> Hardware </h3>
+the idea is to create a laptop device which can easily dock any phone with it...
+-- the phone will be completely immersed inside the laptop body. 
+-- this will create and make the phone screen act as a secondary touch screen for the laptop.
+-- the laptop will have a very high storage capacity >2TB. 
+-- act as a server for the mobile device when it is apart.
+
+when the mobile is docked inside the laptop, it will act as one single device... sharing its resources and processing power... so the user gets the combined processing power of
+both the laptop and the phone.
+combined memory storage space...
+port access and more....
+
+<h3< Software </h3>
+
+inorder to have a compatible software, either..
+-- both the laptop and the phone can have a single seamlessly working OS. 
+or
+-- could be any device any OS on the mobile phones... but irrespective of the OS of the device... create a separate environment running the system when connected to the laptop...
+and only when connected to the laptop. this feature should have full access to the files, configurations, hardware and have abridge software thatll run the application on the phone 
+on the laptop and the vice-versa..
